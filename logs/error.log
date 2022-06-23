@@ -1,0 +1,399 @@
+2022-06-17 16:47:09 Error: [Cake\Http\Exception\MissingControllerException] Controller class Users could not be found. in C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 224
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => 'Admin',
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:146
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\uas\webroot\index.php:40
+
+Request URL: /admin
+
+
+2022-06-17 16:48:04 Error: [Cake\Http\Exception\MissingControllerException] Controller class Blogs could not be found. in C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 224
+Exception Attributes: array (
+  'class' => 'Blogs',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:156
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\uas\webroot\index.php:40
+
+Request URL: /
+
+
+2022-06-17 16:49:03 Error: [Cake\Http\Exception\MissingControllerException] Controller class Blogs could not be found. in C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 224
+Exception Attributes: array (
+  'class' => 'Blogs',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:156
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\uas\webroot\index.php:40
+
+Request URL: /
+
+
+2022-06-17 16:51:24 Error: [Cake\Http\Exception\MissingControllerException] Controller class Blogs could not be found. in C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 224
+Exception Attributes: array (
+  'class' => 'Blogs',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:156
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\uas\webroot\index.php:40
+
+Request URL: /
+
+
+2022-06-17 16:51:26 Error: [Cake\Http\Exception\MissingControllerException] Controller class Users could not be found. in C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php on line 224
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => 'Admin',
+  '_ext' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:65
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\BaseApplication.php:311
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:156
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\uas\webroot\index.php:40
+
+Request URL: /admin
+
+
+2022-06-17 16:53:03 Error: [Cake\Controller\Exception\MissingActionException] Action UsersController::index() could not be found, or is not accessible. in C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\Controller.php on line 510
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'index',
+  'prefix' => 'Admin',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:100
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:156
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\uas\webroot\index.php:40
+
+Request URL: /admin
+
+
+2022-06-17 17:03:23 Error: [Cake\ORM\Exception\MissingTableClassException] Table class for alias `Users` could not be found. in C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php on line 245
+Exception Attributes: array (
+  0 => 'for alias `Users`',
+)
+Stack Trace:
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:62
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Datasource\ModelAwareTrait.php:124
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\Controller.php:307
+- C:\xampp\htdocs\uas\src\Controller\Admin\UsersController.php:22
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\Controller.php:531
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:146
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:156
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\uas\webroot\index.php:40
+
+Request URL: /admin
+
+
+2022-06-23 12:24:53 Error: [Cake\Database\Exception\DatabaseException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cakephp.users' doesn't exist in C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Schema\Collection.php on line 142
+Stack Trace:
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:100
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php:84
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Table.php:513
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Query.php:290
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Query.php:184
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Table.php:1703
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Table.php:1264
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Datasource\Paginator.php:208
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Datasource\Paginator.php:177
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php:201
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\Controller.php:791
+- C:\xampp\htdocs\uas\src\Controller\Admin\UsersController.php:22
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\Controller.php:531
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:146
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:146
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\uas\webroot\index.php:40
+
+Caused by: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cakephp.users' doesn't exist in C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php on line 39
+Stack Trace:
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php:39
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php:178
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php:74
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Connection.php:310
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php:70
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Connection.php:313
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:140
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:100
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php:84
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Table.php:513
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Query.php:290
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Query.php:184
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Table.php:1703
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Table.php:1264
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Datasource\Paginator.php:208
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Datasource\Paginator.php:177
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php:201
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\Controller.php:791
+- C:\xampp\htdocs\uas\src\Controller\Admin\UsersController.php:22
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\Controller.php:531
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:146
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:146
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\uas\webroot\index.php:40
+
+Request URL: /admin
+
+
+2022-06-23 12:28:34 Error: [Cake\Database\Exception\DatabaseException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cakephp.users' doesn't exist in C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Schema\Collection.php on line 142
+Stack Trace:
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:100
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php:84
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Table.php:513
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Query.php:290
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Query.php:184
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Table.php:1703
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Table.php:1264
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Datasource\Paginator.php:208
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Datasource\Paginator.php:177
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php:201
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\Controller.php:791
+- C:\xampp\htdocs\uas\src\Controller\Admin\UsersController.php:22
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\Controller.php:531
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:146
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:156
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\uas\webroot\index.php:40
+
+Caused by: [PDOException] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cakephp.users' doesn't exist in C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php on line 39
+Stack Trace:
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Statement\MysqlStatement.php:39
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Statement\StatementDecorator.php:178
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Log\LoggingStatement.php:74
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Connection.php:310
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Core\Retry\CommandRetry.php:70
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Connection.php:313
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:140
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Schema\Collection.php:100
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php:84
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Table.php:513
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Query.php:290
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Query.php:184
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Table.php:1703
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\ORM\Table.php:1264
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Datasource\Paginator.php:208
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Datasource\Paginator.php:177
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php:201
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\Controller.php:791
+- C:\xampp\htdocs\uas\src\Controller\Admin\UsersController.php:22
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\Controller.php:531
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:146
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:156
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\uas\webroot\index.php:40
+
+Request URL: /admin
+
+
+2022-06-23 12:29:33 Error: [Cake\Controller\Exception\MissingActionException] Action UsersController::login() could not be found, or is not accessible. in C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\Controller.php on line 510
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+  'prefix' => 'Admin',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:100
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\BaseApplication.php:313
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:77
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:156
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:159
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:161
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:121
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:73
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Runner.php:58
+- C:\xampp\htdocs\uas\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\uas\webroot\index.php:40
+
+Request URL: /admin/users/login
+
+
